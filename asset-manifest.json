@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12232733.css",
+    "main.js": "/static/js/main.cac876e4.js",
+    "static/js/787.5e3eab4c.chunk.js": "/static/js/787.5e3eab4c.chunk.js",
+    "static/media/background.png": "/static/media/background.b694029e29c6044f19c6.png",
+    "static/media/travel-agent.png": "/static/media/travel-agent.93e37abc08c69d446725.png",
+    "static/media/ad1.svg": "/static/media/ad1.1394d7883932c7234784.svg",
+    "static/media/ad2.png": "/static/media/ad2.89d00d01f6afe955bc45.png",
+    "static/media/ad3.png": "/static/media/ad3.8c0cb7ed7d83db1d5c5d.png",
+    "static/media/logo.svg": "/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "static/media/instagram.svg": "/static/media/instagram.5e7f2b2e1ef12547d78f.svg",
+    "static/media/wayline.svg": "/static/media/wayline.45ff93dbe2313346a1e4.svg",
+    "static/media/youtube.svg": "/static/media/youtube.e40d033cad7c028b3c16.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.d004984933cd1a426f9e.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.3de9b67c09a0f802f14ab7046162af68.svg",
+    "main.12232733.css.map": "/static/css/main.12232733.css.map",
+    "main.cac876e4.js.map": "/static/js/main.cac876e4.js.map",
+    "787.5e3eab4c.chunk.js.map": "/static/js/787.5e3eab4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12232733.css",
+    "static/js/main.cac876e4.js"
+  ]
+}
